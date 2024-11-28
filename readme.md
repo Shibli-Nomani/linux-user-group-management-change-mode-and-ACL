@@ -221,6 +221,15 @@ setfacl -m u:John:rw john-write.txt
 ```sh
 getfacl david-write.txt
 ```
+- **Output:**
+  - file: david-write.txt
+  - owner: shibli_nomani
+  - group: shibli_nomani
+  - user::rw- 
+  - user:David:rw-
+  - group::r--
+  - mask::rw-
+  - other::---
 <img src="https://github.com/user-attachments/assets/e69725c9-8d1e-4894-bbd2-07372a723533" alt="image" />
 
 
