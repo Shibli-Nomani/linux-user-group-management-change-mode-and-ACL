@@ -136,8 +136,8 @@ ls
 ### Access test.txt file
 ```sh
 vi test.txt
-```
-![image](https://github.com/user-attachments/assets/a265578d-97d9-44ac-87b0-5adc96d47e1b)
+<img src="https://github.com/user-attachments/assets/a265578d-97d9-44ac-87b0-5adc96d47e1b" alt="image" />
+
 
 
 **note:** to quite from readonly condition: :q!
@@ -218,7 +218,8 @@ setfacl -m u:Jeson:rw jeson-write.txt
 setfacl -m u:John:rw john-write.txt
 ```
 
-![image](https://github.com/user-attachments/assets/e69725c9-8d1e-4894-bbd2-07372a723533)
+<img src="https://github.com/user-attachments/assets/e69725c9-8d1e-4894-bbd2-07372a723533" alt="image" />
+
 
 
 ### Go to user account and edit
