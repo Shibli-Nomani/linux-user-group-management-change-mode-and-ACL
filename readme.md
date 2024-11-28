@@ -137,7 +137,8 @@ ls
 ```sh
 vi test.txt
 ```
-![alt text](../screenshoot/group-access-1.png)
+![image](https://github.com/user-attachments/assets/a265578d-97d9-44ac-87b0-5adc96d47e1b)
+
 
 **note:** to quite from readonly condition: :q!
 
@@ -217,7 +218,8 @@ setfacl -m u:Jeson:rw jeson-write.txt
 setfacl -m u:John:rw john-write.txt
 ```
 
-![alt text](..\linux-usr-grp-change-mode\screenshoot\user-individual-access.png)
+![image](https://github.com/user-attachments/assets/e69725c9-8d1e-4894-bbd2-07372a723533)
+
 
 ### Go to user account and edit
 ```sh
