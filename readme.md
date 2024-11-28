@@ -137,7 +137,7 @@ ls
 ```sh
 vi test.txt
 ```
-![alt text](..\linux-usr-grp-change-mode\screenshoot\group-access-1.png)
+![alt text](../screenshoot/group-access-1.png)
 
 **note:** to quite from readonly condition: :q!
 
