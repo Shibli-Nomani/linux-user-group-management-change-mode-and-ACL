@@ -1,0 +1,9 @@
+This is sample text
+- output: drwxr-x--- 2 shibli_nomani mid-access-team 4096 Nov 28 21:53 read-only-directory
+- Chmod 750
+- Owner: Full permissions (d(rwx)) - 7 (4+2+1) -> d refers as directory
+- Group: Read and execute permissions (r-x) - 5 (4+1)
+- Others: No access (---) - 0 (0)
+It can be editable from shibli_nomani.
+group: mid-access-team: Jeson, John can read only.
+directory: read-only-directory.
