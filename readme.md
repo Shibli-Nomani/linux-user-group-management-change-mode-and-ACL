@@ -219,7 +219,7 @@ setfacl -m u:John:rw john-write.txt
 ```
 ### Permission status
 ```sh
-get facl david-write.txt
+getfacl david-write.txt
 ```
 <img src="https://github.com/user-attachments/assets/e69725c9-8d1e-4894-bbd2-07372a723533" alt="image" />
 
